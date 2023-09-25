@@ -34,10 +34,3 @@ for (contarHasta10_2 = 0; contarHasta10_2 < 10; contarHasta10_2++) {
     console.log(contarHasta10_2);
     }
 }
-
-let postI = 0;
-let postJ = 0;
-
-for (postI = 0; postI < 11; postI++) {
-    return ;
-}
